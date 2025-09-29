@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(21, 158, 192);
+    height: 100vh;
+    gap: 10px;
+
+}
+
+.purpleSquare {
+    background-color: purple;
+    width: 450px;
+    height: 900px;
+}
+
+.pinkSquare {
+    background-color: pink;
+    width:180px;
+    height: 180px;
+    gap: 10px;
+    padding: 5px;
+}
+
+.yellowSquare {
+    background-color: yellow;
+    width: 150px;
+    height: 150px;
+    border: 5px solid yellow;
+    flex-direction: column;
+    padding: 5px;
+    gap: 5px;
+}
+
+.greenSquare {
+    background-color: green;
+    width: 60px;
+    height: 60px;
+}
+
+.flex
+{
+    display: flex;
+}
+
+.item
+{
+    align-items: center;
+}
+
+.content
+{
+    justify-content: center;
+}
