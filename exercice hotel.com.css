@@ -1,0 +1,220 @@
+body
+{
+    background-color: white;
+}
+
+.firstLine
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 30px;
+}
+
+.Continent img
+{
+    width: 20px;
+    height: 20px;
+}
+
+.Messages img
+{
+    width: 20px;
+    height: 20px;
+}
+
+.Logo img
+{
+    width: 40px;
+    height: 40px;
+}
+
+.BoutonApp
+{
+    border-radius: 30px;
+    color: blue;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.Logo
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Connection
+{
+    padding: 10px;
+    color: red;
+}
+
+.Recherche
+{
+    color: red;
+    margin-right: 100px;
+}
+
+.Annonce
+{
+    color: red;
+}
+
+.Assistance
+{
+    color: red;
+}
+
+.Voyages
+{
+    color: red;
+}
+
+.Continent
+{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: red;
+}
+
+.BoutonApp img
+{
+    height: 30px;
+    width: 30px;
+}
+
+.Espace
+{
+    display: flex;
+    align-items: center;
+}
+
+
+.LieuDateNombre
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    background-color: white;
+    border-radius: 12px;
+    width: auto;
+    padding: 20px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    color: black;
+}
+
+.Lieu img
+{
+    width: 15px;
+    height: 15px;
+    padding-right: 10px;
+    margin: 10px;
+}
+
+.Lieu
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 20px;
+    padding-right: 50px;
+}
+
+.Date img
+{
+    width: 15px;
+    height: 15px;
+    padding-right: 10px;
+    margin: 10px;
+}
+
+.Date
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 20px;
+    padding-right: 50px;
+    padding-left: 10px;
+}
+
+.Nombre img
+{
+    width: 15px;
+    height: 15px;
+    padding-right: 10px;
+    margin: 10px;
+}
+
+.Nombre
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid;
+    border-color: black;
+    border-radius: 20px;
+    padding-right: 50px;
+}
+
+.ImageMid img
+{
+    height: 400px;
+    width: 80%;
+    border-radius: 12px;   
+    margin-left: 10%;
+}
+
+.Search
+{
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+    width: 125px;
+    padding-left: 10px;
+}
+
+.DateTexte
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.VoyageTexte
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Dates
+{
+    font-size: 12px;
+}
+
+.Voyageur
+{
+    font-size: 12px;
+}
+
+.Bannière img
+{
+    height: 50px;
+    width: 50px;
+}

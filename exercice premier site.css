@@ -1,0 +1,133 @@
+body
+{
+    background-color: rgb(255, 255, 255);
+}
+
+.Entête
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    line-height: 5px;
+}
+
+.firstLine
+{
+    color: black;
+
+}
+
+.secondLine
+{
+    color: black;
+}
+
+.thirdLine
+{
+    color: blue;
+}
+
+.grosseImage img
+{
+    height: auto;
+    width: 100%;
+    max-height: 650px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+
+.grosseImage
+{
+    padding: 10px;
+    margin: 10px;
+}
+
+.tripleImage
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    gap: 10px;
+}
+
+.tripleImage img
+{
+    display: flex;
+    width: 100%;
+    border-radius: 12px;
+    height: auto;
+    height: 400px;
+    
+}
+
+.troisièmeLigne
+{
+    background-color: blue;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    display: inline-block;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.premièreLigne
+{
+    padding: 5px;
+}
+
+.deuxièmeLigne
+{
+    padding: 10px;
+}
+
+.gauche
+{
+    background-color: grey;
+    border-radius: 12px;
+    padding-bottom: 10px;
+}
+
+.millieu
+{
+    background-color: grey;
+    border-radius: 12px;
+    padding-bottom: 10px;
+}
+
+.droite
+{
+    background-color: grey;
+    border-radius: 12px;
+    padding-bottom: 10px;
+}
+
+.encoreUnRectangle
+{
+    display: flex;
+    flex-direction: row;
+    background-color: grey;
+    border-radius: 12px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.encoreUnRectangle img
+{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.textes2
+{
+    padding: 10px;
+}
+
+.textes1
+{
+    padding: 10px;
+}

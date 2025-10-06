@@ -1,0 +1,46 @@
+body 
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: red;
+    background-color: black;
+}
+
+#timer  /*# pour trouver l'id et . pour les classe de <div class>  */
+{
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+
+#startButton
+{
+    font-size: 40px;
+    padding: auto;
+    margin: 10px;
+    border-radius: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcoral;
+}
+
+#StopButton
+{
+    font-size: 40px;
+    padding: auto;
+    margin: 10px;
+    border-radius: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightcyan;
+}
+
+#ResetButton
+{
+    font-size: 40px;
+    padding: auto;
+    margin: 10px;
+    border-radius: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+}
